@@ -1,2 +1,3 @@
 # specelectrik
-###[Главная страница](http://pavelkorshunov.github.io/specelectrik/ "Главная страница")
+###[Макет](http://pavelkorshunov.github.io/specelectrik/ "Макет")
+![Макет](specelectrik.jpg)
